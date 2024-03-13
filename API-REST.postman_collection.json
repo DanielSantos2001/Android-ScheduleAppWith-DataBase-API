@@ -1,0 +1,330 @@
+{
+	"info": {
+		"_postman_id": "3dc783a4-a285-445b-8270-8ebe5de7f318",
+		"name": "API-REST",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Bem vindo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Signup",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Gervazio\",\r\n    \"senha\": \"estgoh\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/signup",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"signup"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Listar Users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/get_users",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"get_users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Criar Lista",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"1\",\r\n    \"owner\": \"1\",\r\n    \"Token\": \"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/criar_lista",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"criar_lista"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Listar listas",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"owner\": \"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/get_lists",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"get_lists"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Criar Task",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"descricao\":\"teste\",\r\n    \"data\":\"2022-6-27-8-15\",\r\n    \"list\":\"teste\",\r\n    \"limite\":\"0\",\r\n    \"concluido\":\"0\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/criar_tasks",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"criar_tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Listar Tasks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/get_tasks",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"get_tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Remover Lista",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":\"2\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/remover_list",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"remover_list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Remover Task",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":\"2\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/remover_task",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"remover_task"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Atualizar Nome Lista",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":\"1\",\r\n    \"nome\":\"teste\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/atualizar_nome_lista",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"atualizar_nome_lista"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Atualizar Concluido Task",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":\"3\",\r\n    \"concluido\":\"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/atualizar_concluido_task",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"atualizar_concluido_task"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Atualizar Descricao Task",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":\"3\",\r\n    \"descricao\":\"teste2\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://danieltam3.herokuapp.com/atualizar_descricao_task",
+					"protocol": "https",
+					"host": [
+						"danieltam3",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"atualizar_descricao_task"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

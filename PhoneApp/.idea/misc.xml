@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_add_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_add_task.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_change_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_change_task.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_list_all.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_task_info.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/activity_to_do_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout-land/todolist.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_add_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_add_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_change_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_change_task.xml" value="0.264" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_list_all.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_task_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/activity_to_do_list.xml" value="0.11302083333333333" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/add_task.xml" value="0.22826086956521738" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho1/app/src/main/res/layout/todolist.xml" value="0.22826086956521738" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_about_it.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_add_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_add_task.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_change_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_change_nome.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_change_task.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_list_all.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_about_it.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_add_list.xml" value="0.16621376811594202" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_add_task.xml" value="0.12360688956433637" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_change_list.xml" value="0.1" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_change_nome.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_change_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_list_all.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/activity_task_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho2/app/src/main/res/layout/todolist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout-land/activity_about_it.xml" value="0.15079365079365079" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout-land/activity_login.xml" value="0.31040564373897706" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout/activity_about_it.xml" value="0.36666666666666664" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout/activity_add_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/layout/todolist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Trabalhos/AndroidStudio/Trabalho3_DanielSantos/Trabalho3/app/src/main/res/xml/network_security_config.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
